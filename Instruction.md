@@ -15,15 +15,8 @@ wraper than a(link to img) img with two data
 1)data-tittle = out title
 2)data-lightbox = if we wont use lightbox for this image
 
-Example =>
+Example => in html code
 
-div class=grid
-  div class="grid-item"
-    a href="https://s-media-cache-ak0.pinimg.com.jpg" data-title="Our title" data-lightbox="lightbox"
-        img src="https://s-media-cache-ak0.pinimg.com.jpg" alt="test" loading="lazy" /
-    /a
-  /div
-/div
 In app.js => 
 
 Preloader delay 
