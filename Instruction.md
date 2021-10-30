@@ -25,12 +25,16 @@ $(window).load(function() {
     $(".overlayer").delay(1000).fadeOut("slow");
 })
 
+Masonry options here=>https://masonry.desandro.com/options.html
+
 Masonry option with preloader 
 $(".grid").imagesLoaded(function() {
     $(".grid").masonry({
         itemSelector: ".grid-item"
     });
 });
+
+Lightbox options here =>https://lokeshdhakar.com/projects/lightbox2/#options
 
 Lightbox option 
 lightbox.option({
