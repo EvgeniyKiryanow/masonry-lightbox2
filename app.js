@@ -8,10 +8,9 @@ $(".grid").imagesLoaded(function() {
         itemSelector: ".grid-item"
     });
 });
+
 lightbox.option({
-    // 'resizeDuration': 500,
     'wrapAround': true,
-    // 'fadeDuration': 500,
-    // 'imageFadeDuration': 500,
-    // 'fitImagesInViewport': true
+    'fadeDuration': 500,
+    'imageFadeDuration': 500,
 })
