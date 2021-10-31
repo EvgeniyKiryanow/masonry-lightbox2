@@ -1,9 +1,9 @@
 Instruction
 
 First add Jquery current version 3.6.0
-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 Add lightbox2
-1)<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.css">
+1)сss href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/css/lightbox.css"
 2)<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 Preloader img 
 - <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
